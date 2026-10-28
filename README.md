@@ -30,7 +30,6 @@ jupyter lab symbolicregression_GA.ipynb       # abra a partir desta pasta e use 
   última coluna = saída). O notebook usa automaticamente as bases que encontrar.
 * `QUICK = True` (célula 3.0) faz uma execução rápida só para testar o notebook; **os resultados finais
   devem ser gerados com `QUICK = False`** (30 repetições por configuração, execução em paralelo).
-* As células marcadas com ✍️ são espaços para a análise escrita, a preencher depois de executar.
 
 ## Uso direto da biblioteca
 
